@@ -29,6 +29,7 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import TCS from "./company/TCS.png"
+import accenture from "./company/accenture.png"
 import chatapp from "./chatapp.png"
 import weather from "./weather.png"
 import calculator from "./calculator.png"
@@ -43,6 +44,7 @@ export {
   souvenirs,
   mylogo,
   weather,
+  accenture,
   backend,
   creator,
   mobile,
